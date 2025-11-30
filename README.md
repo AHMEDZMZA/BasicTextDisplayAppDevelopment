@@ -1,16 +1,54 @@
-# basic_text_display_app_development
 
-A new Flutter project.
+# BasicTextDisplayAppDevelopment
 
-## Getting Started
+A simple mobile application designed to display a predefined static text on a single screen.  
+The project focuses on basic app setup without any user interaction, storage, or complex features.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## 📱 Overview
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+This application demonstrates the most fundamental structure of a mobile app.  
+It contains:
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- One screen only  
+- A static welcome text  
+- No buttons  
+- No input fields  
+- No navigation  
+- No backend or database  
+
+Perfect for beginners who want to understand the basic layout of a mobile UI.
+
+---
+
+## 🧩 Features
+
+- Displays a predefined English welcome message  
+- Clean and minimal UI  
+- Lightweight and easy to understand  
+- Suitable as a starter template for more complex apps
+
+---
+
+## 🛠️ Technologies Used
+
+- **Flutter** (for cross-platform mobile development)  
+- **Dart** programming language  
+
+---
+
+## 📸 Screenshot
+
+*(![WhatsApp Image 2025-11-30 at 23 43 48_95800fb6](https://github.com/user-attachments/assets/cffc8ae6-a5ec-4a7e-bed4-f11a383a8f65))*
+
+---
+
+## ▶️ How to Run the Project
+
+1. Install Flutter SDK  
+2. Run the following commands:
+
+```bash
+flutter pub get
+flutter run
